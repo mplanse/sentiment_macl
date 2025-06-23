@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+yfinance
+vaderSentiment
+beautifulsoup4
+requests
+snscrape
